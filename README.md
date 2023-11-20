@@ -41,4 +41,4 @@ Exercicios resolvidos de juizes onlines LeetCode, sobre o tema dividir e conquis
 Para executar os programas, basta baixar os códigos e submetê-los em um compilador online ou em um editor de código-fonte.
 
 ## Vídeos
-
+https://github.com/projeto-de-algoritmos/D-C_ExerciciosJuiz/assets/58870950/3fbf70b5-7227-40ae-8938-a2987724b7cb
